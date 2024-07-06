@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Professor-hilary
 - 👀 I’m interested in business and tech. I strongly believe am a techpreneur.
-- 🌱 I’m currently learning everything I can in C++ and Java.
+- 🌱 I’m currently learning everything I can in C++ and Java. Others are Python, Dart and JS' nodejs
 - 💞️ I’m looking to collaborate on as many Opens Sources as  I can.
 - 📫 How to reach me ..., not yet!
 - ⚡ Fun fact: I am a multitasker: I do business as career and software dev as a hobby. I like spanish y muchas otras cosas
